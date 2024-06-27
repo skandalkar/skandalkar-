@@ -1,9 +1,9 @@
 About Me:
 
 
-Hi there, I'm Santosh Kandalkar! 👋
+Hi there 👋, I'm Santosh Kandalkar ! 
 
-Welcome to my GitHub profile! Here's a little bit about me:
+Welcome to my GitHub profile ! Here's a little bit about me:
 
 - 🌱 I’m currently learning Java & Data Structures & Algorithms, Web Development Technology.
 - 👯 I’m looking to collaborate on open source projects.
