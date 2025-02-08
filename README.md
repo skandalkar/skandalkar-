@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <a href="linkedin.com/in/santosh-kandalkar-35b454248" target="_blank">
+  <a href="www.linkedin.com/in/santosh-kandalkar-35b454248" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="76" height="51" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/skandalkar1508" target="_blank">
