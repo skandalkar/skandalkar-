@@ -42,7 +42,14 @@
 
 <br clear="both">
 
-<p align="left">Hi there 👋, I'm Santosh Kandalkar !<br><br>Welcome to my GitHub profile ! Here's a little bit about me:<br><br>• 💪|🎯|📈| Currently I am improving my skills by learning Techs.<br>• 🌱 I am currently learning Java & Data Structures & Algorithms, Web Development Technology.<br>• 🤝 I am looking to collaborate on open source projects.<br>• 💬 Ask me about Java programming, python, android, web, Operating System, Networking, DBMS, etc.<br>• 📫 How to reach me: "skandalkar1508@gmail.com"<br>• 😄 Pronouns: "skandalkar"<br>• ⚡ Fun fact: Learning and implementing to solve the real-world problems is "Engineering"</p>
+<p align="left">Hi there 👋, I'm Santosh Kandalkar !<br><br>Welcome to my GitHub profile ! Here's a little bit about me:<br><br>
+  • 💪|🎯|📈| Currently I am improving my skills by learning Techs.<br>
+  • 🌱 I am currently learning Java, Data Structures & Algorithms, Web Development Technology, System Design(HLD),...<br>
+  • 🤝 I am looking to collaborate on open source projects.<br>
+  • 💬 Ask me about Java programming, python, android, web, Operating System, Networking, DBMS, etc.<br>
+  • 📫 How to reach me: "skandalkar1508@gmail.com"<br>
+  • 😄 Pronouns: "skandalkar"<br>
+  • ⚡ Fun fact: Learning and implementing to solve the real-world problems is "Engineering"</p>
 
 ###
 
@@ -65,6 +72,8 @@
   <img width="19" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="19" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"  />
+  <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
   <img width="19" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
@@ -84,6 +93,35 @@
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img width="19" />
   <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="node logo"  />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=expressjs" height="60" alt="express logo"  />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="60" alt="tailwind logo"  />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="firebase logo"  />
+  <img width="19" />
+  <img src="https://img.icons8.com/fluency/48/microsoft-copilot.png" height="60" alt="Microsoft Copilot" />
+  <img width="19" />
+  <img src="https://img.icons8.com/color/48/chatgpt.png" height="60" alt="ChatGPT" />
+  <img width="19" />
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" height="60" alt="AWS" />
+  <img width="19" />
+  <img src="https://img.icons8.com/color/48/google-cloud.png" height="60" alt="Google Cloud" />
+  
+
+  
 </div>
 
 ###
