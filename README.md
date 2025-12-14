@@ -44,11 +44,11 @@
 
 <p align="left">Hi there 👋, I'm Santosh Kandalkar !<br><br>Welcome to my GitHub profile ! Here's a little bit about me:<br><br>
   • 💪|🎯|📈| Currently I am improving my skills by learning Techs.<br>
-  • 🌱 I am currently learning Java, Data Structures & Algorithms, Web Development Technology, System Design(HLD),...<br>
+  • 🌱 I am currently learning Java and Spring Boot, Data Structures & Algorithms, Web Development Technology, System Design(HLD),...<br>
   • 🤝 I am looking to collaborate on open source projects.<br>
-  • 💬 Ask me about Java programming, python, android, web, Operating System, Networking, DBMS, etc.<br>
+  • 💬 Ask me about Java programming, web, system design, Operating System, Networking, DBMS, etc.<br>
   • 📫 How to reach me: "skandalkar1508@gmail.com"<br>
-  • 😄 Pronouns: "skandalkar"<br>
+  • 😄 Pronouns: "santosh"<br>
   • ⚡ Fun fact: Learning and implementing to solve the real-world problems is "Engineering"</p>
 
 ###
@@ -74,19 +74,11 @@
   <img width="19" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"  />
   <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
-  <img width="19" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="60" alt="google logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="60" alt="chrome logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
   <img width="19" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="19" />
@@ -118,8 +110,17 @@
   <img width="19" />
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" height="60" alt="AWS" />
   <img width="19" />
-  <img src="https://img.icons8.com/color/48/google-cloud.png" height="60" alt="Google Cloud" />
-  
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring boot logo" />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=webstorm" height="60" alt="webstorm logo" />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=googlecloud" height="60" alt="google gemini ai logo" />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo" />
+
+
 
   
 </div>
